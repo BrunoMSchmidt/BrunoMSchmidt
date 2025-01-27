@@ -5,7 +5,7 @@
 
 ...
 
-<a href="https://app.daily.dev/bruno_schmidt"><img src="https://api.daily.dev/devcards/2d65f8882a064e9aaa302841cc1606ef.png?r=qkl" width="400" alt="Bruno Marlon Schmidt's Dev Card"/></a>
+<a href="https://app.daily.dev/bruno_schmidt"><img src="https://api.daily.dev/devcards/v2/G8iwtkci26QhHhli0fuLy.png?type=wide&r=9sj" width="652" alt="Bruno Marlon Schmidt's Dev Card"/></a>
 
 <!--
 **BrunoMSchmidt/BrunoMSchmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
