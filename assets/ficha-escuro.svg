@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="400" viewBox="0 0 860 400" role="img" aria-label="Ficha de Bruno Schmidt: nível 5, 2.121 contribuições no último ano">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="400" viewBox="0 0 860 400" role="img" aria-label="Ficha de Bruno Schmidt: nível 5, 2.128 contribuições no último ano">
 <style>
   .rot{font:700 11px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace;fill:#8b949e;letter-spacing:1.5px}
   .val{font:700 24px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
@@ -46,7 +46,7 @@
 <g class="in" style="animation-delay:0.15s">
       <rect x="330" y="40" width="245" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
       <text x="346" y="62" class="rot">ATAQUE</text>
-      <text x="346" y="90" class="val">2.121</text>
+      <text x="346" y="90" class="val">2.128</text>
       <text x="559" y="90" class="sub" text-anchor="end">contribuições em 365d</text>
     </g><g class="in" style="animation-delay:0.25s">
       <rect x="590" y="40" width="245" height="70" rx="10" fill="#161b22" stroke="#30363d"/>

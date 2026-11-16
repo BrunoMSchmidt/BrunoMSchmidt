@@ -17,7 +17,7 @@ Fora do teclado: academia, música e jogos (pesquisa de mercado, claro).
 ### 🪧 Mural de quem passou por aqui
 
 <!-- MURAL:INICIO -->
-<sub>ninguém ainda. seja o primeiro 👀</sub>
+<a href="https://github.com/BrunoMSchmidt"><img src="https://github.com/BrunoMSchmidt.png?size=64" width="40" height="40" alt="@BrunoMSchmidt" title="@BrunoMSchmidt"/></a>
 <!-- MURAL:FIM -->
 
 <sub>Quer aparecer? <a href="https://github.com/BrunoMSchmidt/BrunoMSchmidt/issues/new?title=%F0%9F%91%8B+oi&body=S%C3%B3+envia.+Um+rob%C3%B4+coloca+teu+avatar+no+mural+e+fecha+a+issue.">Deixa um oi</a> — um robô coloca teu avatar aqui em segundos.</sub>

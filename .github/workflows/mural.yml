@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   oi:
-    if: contains(github.event.issue.title, 'oi')
+    if: contains(github.event.issue.title, '👋') || contains(github.event.issue.title, 'oi')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
