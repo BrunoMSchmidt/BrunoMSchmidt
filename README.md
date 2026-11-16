@@ -1,23 +1,36 @@
-# Hello, I'm Bruno👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ficha-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ficha-claro.svg">
+  <img alt="Ficha de personagem do Bruno Schmidt: nível, atributos e stack, atualizados todo dia" src="assets/ficha-escuro.svg" width="100%">
+</picture>
 
-### About me
-...
+Oi, eu sou o Bruno 👋 Dev de software há 5 anos, lá de Paraíso/SC. Passo o dia em produto e a noite em side project — quase sempre algum jogo que eu juro que dessa vez vou terminar.
 
-...
+Fora do teclado: academia, música e jogos (pesquisa de mercado, claro).
 
-<a href="https://app.daily.dev/bruno_schmidt"><img src="https://api.daily.dev/devcards/v2/G8iwtkci26QhHhli0fuLy.png?type=wide&r=9sj" width="652" alt="Bruno Marlon Schmidt's Dev Card"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-claro.svg">
+  <img alt="Terminal animado com whoami, uptime e afins" src="assets/terminal-escuro.svg" width="100%">
+</picture>
 
-<!--
-**BrunoMSchmidt/BrunoMSchmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🪧 Mural de quem passou por aqui
 
-Here are some ideas to get you started:
+<!-- MURAL:INICIO -->
+<sub>ninguém ainda. seja o primeiro 👀</sub>
+<!-- MURAL:FIM -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Quer aparecer? <a href="https://github.com/BrunoMSchmidt/BrunoMSchmidt/issues/new?title=%F0%9F%91%8B+oi&body=S%C3%B3+envia.+Um+rob%C3%B4+coloca+teu+avatar+no+mural+e+fecha+a+issue.">Deixa um oi</a> — um robô coloca teu avatar aqui em segundos.</sub>
+
+<details>
+<summary><sub>não clica aqui</sub></summary>
+
+```
+   você clicou.
+   isso diz muito sobre você.
+   a ficha atualiza sozinha todo dia via GitHub Actions,
+   o terminal é um SVG feito na mão e o mural é um JSON
+   que um robô edita. tudo isso pra um README. sim.
+```
+
+</details>
