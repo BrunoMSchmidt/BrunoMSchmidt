@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="400" viewBox="0 0 860 400" role="img" aria-label="Ficha de Bruno Schmidt: nível 5, 2.185 contribuições no último ano">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="400" viewBox="0 0 860 400" role="img" aria-label="Ficha de Bruno Schmidt: nível 5, 2.220 contribuições no último ano">
 <style>
   .rot{font:700 11px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace;fill:#8b949e;letter-spacing:1.5px}
   .val{font:700 24px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
@@ -32,9 +32,9 @@
 <text x="40" y="242" class="tit">Paraíso/SC · classe Full-stack</text>
 
 <text x="40" y="276" class="rot">XP → NV 6</text>
-<text x="290" y="276" class="sub" text-anchor="end">faltam 258 dias</text>
+<text x="290" y="276" class="sub" text-anchor="end">faltam 257 dias</text>
 <rect x="40" y="284" width="250" height="10" rx="5" fill="#21262d"/>
-<rect x="40" y="284" width="73.8" height="10" rx="5" fill="#f0b429" class="xp"/>
+<rect x="40" y="284" width="74.5" height="10" rx="5" fill="#f0b429" class="xp"/>
 
 <text x="40" y="326" class="sec">PASSIVAS</text>
 <rect x="40" y="338" width="78.4" height="24" rx="12" fill="none" stroke="#30363d"/>
@@ -46,18 +46,18 @@
 <g class="in" style="animation-delay:0.15s">
       <rect x="330" y="40" width="245" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
       <text x="346" y="62" class="rot">ATAQUE</text>
-      <text x="346" y="90" class="val">2.185</text>
+      <text x="346" y="90" class="val">2.220</text>
       <text x="559" y="90" class="sub" text-anchor="end">contribuições em 365d</text>
     </g><g class="in" style="animation-delay:0.25s">
       <rect x="590" y="40" width="245" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
       <text x="606" y="62" class="rot">CONSTÂNCIA</text>
       <text x="606" y="90" class="val">20%</text>
-      <text x="819" y="90" class="sub" text-anchor="end">73 dias ativos no ano</text>
+      <text x="819" y="90" class="sub" text-anchor="end">74 dias ativos no ano</text>
     </g><g class="in" style="animation-delay:0.35s">
       <rect x="330" y="122" width="245" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
       <text x="346" y="144" class="rot">COMBO</text>
-      <text x="346" y="172" class="val">30d</text>
-      <text x="559" y="172" class="sub" text-anchor="end">recorde: 30 dias seguidos</text>
+      <text x="346" y="172" class="val">31d</text>
+      <text x="559" y="172" class="sub" text-anchor="end">recorde: 31 dias seguidos</text>
     </g><g class="in" style="animation-delay:0.45000000000000007s">
       <rect x="590" y="122" width="245" height="70" rx="10" fill="#161b22" stroke="#30363d"/>
       <text x="606" y="144" class="rot">MAPAS</text>
@@ -94,5 +94,5 @@
     </g>
 
 <circle cx="814" cy="26" r="4" fill="#3fb950" class="pulso"/>
-<text x="804" y="30" class="sub" text-anchor="end">atualizado 16/11/2026</text>
+<text x="804" y="30" class="sub" text-anchor="end">atualizado 17/11/2026</text>
 </svg>
